@@ -1,0 +1,39 @@
+乳腺癌威斯康星诊断数据集
+Breast Cancer Wisconsin Diagnostic Dataset
+来源: UCI Machine Learning Repository / sklearn.datasets
+文献: Wolberg W H, et al. (1995)
+样本数: 569
+特征数: 30
+类别: 0=恶性(malignant), 1=良性(benign)
+
+特征列表:
+  mean radius
+  mean texture
+  mean perimeter
+  mean area
+  mean smoothness
+  mean compactness
+  mean concavity
+  mean concave points
+  mean symmetry
+  mean fractal dimension
+  radius error
+  texture error
+  perimeter error
+  area error
+  smoothness error
+  compactness error
+  concavity error
+  concave points error
+  symmetry error
+  fractal dimension error
+  worst radius
+  worst texture
+  worst perimeter
+  worst area
+  worst smoothness
+  worst compactness
+  worst concavity
+  worst concave points
+  worst symmetry
+  worst fractal dimension
